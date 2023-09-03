@@ -4,7 +4,7 @@ channels:
   - conda-forge  # Adding conda-forge channel for some packages
 
 dependencies:
-  - python=3.6  # Replace with your desired Python version
+  - python=3.9  # Replace with your desired Python version
 
   # Libraries used in your code
   - streamlit=0.87.0
